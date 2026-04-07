@@ -1,0 +1,19 @@
+# Ignore file nặng
+*.exe
+*.zip
+*.rar
+
+# Build C#
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Node (nếu có)
+node_modules/
+
+# Log
+*.log
